@@ -52,6 +52,3 @@ color = Color( 0, 0, 0, 0.25098 )
 anchor_right = 1.0
 margin_bottom = 40.0
 valign = 1
-__meta__ = {
-"_edit_use_anchors_": false
-}
